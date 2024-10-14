@@ -1,0 +1,14 @@
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\obj\Debug\net8.0\cs1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\obj\Debug\net8.0\cs1.AssemblyInfoInputs.cache
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\obj\Debug\net8.0\cs1.AssemblyInfo.cs
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\obj\Debug\net8.0\cs1.csproj.CoreCompileInputs.cache
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\bin\Debug\net8.0\cs1.exe
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\bin\Debug\net8.0\cs1.deps.json
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\bin\Debug\net8.0\cs1.runtimeconfig.json
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\bin\Debug\net8.0\cs1.dll
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\bin\Debug\net8.0\cs1.pdb
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\obj\Debug\net8.0\cs1.dll
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\obj\Debug\net8.0\refint\cs1.dll
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\obj\Debug\net8.0\cs1.pdb
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\obj\Debug\net8.0\cs1.genruntimeconfig.cache
+C:\Users\pesso.000\Desktop\Códigos C#\cs1\obj\Debug\net8.0\ref\cs1.dll
